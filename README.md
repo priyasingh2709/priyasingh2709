@@ -1,18 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Priya Singh</h1>
-<h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on [College Bazaar](https://github.com/priyasingh2709/College-Bazaar)
 
 - 🌱 I’m currently learning **ReactJs, NodeJS, MySQL, JavaScript**
-
-- 🤝 I’m looking to collaborate on [Uber Ride Analysis Project](https://github.com/priyasingh2709/Uber-Data-Analysis-Dashboard) & Hackathons
 
 - 💬 Ask me about **Web Dev, Computer Networks, Object Oriented Programming, Data Structures & Algos**
 
 - 📫 How to reach me **2709priyasingh@gmail.com**
 
-- 🏀 Hobbies **Dancing, Basketball, Sketching**
+- 🏀 Hobbies **Sketching**
   
 - 😎 Fun Fact **I love to Explore**
 
